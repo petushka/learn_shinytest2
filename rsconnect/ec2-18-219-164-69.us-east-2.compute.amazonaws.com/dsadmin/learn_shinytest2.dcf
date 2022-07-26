@@ -1,0 +1,13 @@
+name: learn_shinytest2
+title: learn_shinytest2
+username: dsadmin
+account: dsadmin
+server: ec2-18-219-164-69.us-east-2.compute.amazonaws.com
+hostUrl: http://ec2-18-219-164-69.us-east-2.compute.amazonaws.com/rsconnect/__api__
+appId: 2
+bundleId: 2
+url: http://ec2-18-219-164-69.us-east-2.compute.amazonaws.com/rsconnect/content/1273aef3-99d4-4ecc-a343-4f58bba7f53e/
+when: 1658861633.73663
+lastSyncTime: 1658861633.73664
+asMultiple: FALSE
+asStatic: FALSE
